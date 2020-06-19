@@ -1,0 +1,62 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 0.0.0.0:2666            0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:6000            0.0.0.0:*               LISTEN      
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      
+tcp        0      0 127.0.0.1:49881         127.0.0.1:48940         ESTABLISHED 
+tcp        0      0 127.0.0.1:59719         127.0.0.1:39061         ESTABLISHED 
+tcp        0      0 127.0.0.1:10501         127.0.0.1:48205         ESTABLISHED 
+tcp        0      0 127.0.0.1:58463         127.0.0.1:42799         ESTABLISHED 
+tcp        0      0 127.0.0.1:35731         127.0.0.1:57737         ESTABLISHED 
+tcp        0      0 127.0.0.1:50964         127.0.0.1:44276         ESTABLISHED 
+tcp        0      0 127.0.0.1:38335         127.0.0.1:40694         ESTABLISHED 
+tcp        0      0 127.0.0.1:57737         127.0.0.1:35731         ESTABLISHED 
+tcp        0      0 127.0.0.1:44460         127.0.0.1:54348         ESTABLISHED 
+tcp        0      0 123.108.163.56:34682    101.201.151.78:50000    ESTABLISHED 
+tcp        0      0 127.0.0.1:46299         127.0.0.1:51256         ESTABLISHED 
+tcp        0      0 127.0.0.1:52312         127.0.0.1:42806         ESTABLISHED 
+tcp        0      0 127.0.0.1:40855         127.0.0.1:43042         ESTABLISHED 
+tcp        0      0 127.0.0.1:37964         127.0.0.1:58261         ESTABLISHED 
+tcp        0      0 127.0.0.1:48205         127.0.0.1:10501         ESTABLISHED 
+tcp        0      0 127.0.0.1:40694         127.0.0.1:38335         ESTABLISHED 
+tcp        0      0 123.108.163.56:53921    47.105.57.238:20080     ESTABLISHED 
+tcp        0      0 127.0.0.1:54792         127.0.0.1:43369         ESTABLISHED 
+tcp        0      0 127.0.0.1:48940         127.0.0.1:49881         ESTABLISHED 
+tcp       75      0 123.108.163.56:443      184.105.247.196:36974   ESTABLISHED 
+tcp        0      0 127.0.0.1:43369         127.0.0.1:54792         ESTABLISHED 
+tcp        0      0 127.0.0.1:44276         127.0.0.1:50964         ESTABLISHED 
+tcp        0      0 127.0.0.1:51256         127.0.0.1:46299         ESTABLISHED 
+tcp        0      0 123.108.163.56:53920    47.105.57.238:20080     ESTABLISHED 
+tcp        0      0 127.0.0.1:36414         127.0.0.1:34378         ESTABLISHED 
+tcp        0      0 127.0.0.1:42806         127.0.0.1:52312         ESTABLISHED 
+tcp        0      0 127.0.0.1:54348         127.0.0.1:44460         ESTABLISHED 
+tcp        0      0 123.108.163.56:34268    101.201.151.78:50000    ESTABLISHED 
+tcp        0      0 127.0.0.1:39061         127.0.0.1:59719         ESTABLISHED 
+tcp        0      0 127.0.0.1:34378         127.0.0.1:36414         ESTABLISHED 
+tcp        0      0 127.0.0.1:34734         127.0.0.1:39951         ESTABLISHED 
+tcp        0      0 127.0.0.1:58261         127.0.0.1:37964         ESTABLISHED 
+tcp        0      0 127.0.0.1:43042         127.0.0.1:40855         ESTABLISHED 
+tcp        0      0 127.0.0.1:42799         127.0.0.1:58463         ESTABLISHED 
+tcp        0      0 127.0.0.1:39951         127.0.0.1:34734         ESTABLISHED 
+udp        0      0 10.2.2.1:514            0.0.0.0:*                           
+udp        0      0 0.0.0.0:6030            0.0.0.0:*                           
+udp        0      0 0.0.0.0:6031            0.0.0.0:*                           
+udp        0      0 0.0.0.0:56863           0.0.0.0:*                           
+udp        0      0 127.0.0.1:33696         127.0.0.1:55378         ESTABLISHED 
+udp        0      0 0.0.0.0:4000            0.0.0.0:*                           
+udp        0      0 0.0.0.0:20002           0.0.0.0:*                           
+udp        0      0 127.0.0.1:6050          0.0.0.0:*                           
+udp        0      0 0.0.0.0:10031           0.0.0.0:*                           
+udp        0    592 0.0.0.0:5060            0.0.0.0:*                           
+udp        0      0 127.0.0.1:55378         0.0.0.0:*                           
+udp        0      0 0.0.0.0:3666            0.0.0.0:*                           
+udp        0      0 0.0.0.0:32991           0.0.0.0:*                           
+udp        0      0 0.0.0.0:6002            0.0.0.0:*                           
+udp        0    272 0.0.0.0:6003            0.0.0.0:*                           
+udp        0      0 0.0.0.0:38137           0.0.0.0:*                           
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node Path
+unix  4      [ ]         DGRAM                      1183 /dev/log
+unix  2      [ ]         DGRAM                      1420 
+unix  2      [ ]         DGRAM                      1303 
