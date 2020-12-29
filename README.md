@@ -6,7 +6,7 @@ Anyone could use them to work with binary data, numbers, arrays and for the purp
 
 Almost all of these codes are funtion-based in order to easily take, make use of code block to create your own project with full source code.
 
-## Python Version
+## Requirements
 
 - Python3
 
