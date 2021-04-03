@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author: Kyle Song (fkilla8210@gmail.com)
+# @Author: Kyle Song
 # @Date:   2020-03-11 13:50
 # @Last Modified by:   KyleSong
 
