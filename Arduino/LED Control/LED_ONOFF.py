@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 # Author: Kyle Song
-# Email: fkilla8210@naver.com
-#
 # Python Package Install: pip3 install pyfirmata2
 # Need to upload StandardFirmata with Arduino IDE first.
 
