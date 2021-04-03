@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # Author: Kyle Song
-# Email: fkilla8210@gmail.com
 
 import string
 
